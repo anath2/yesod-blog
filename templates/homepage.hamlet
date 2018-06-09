@@ -2,11 +2,11 @@
     <div .container>
         <div .row>
             <h1 .header>
-                Yesod—a modern framework for blazing fast websites
+                Ajit Nath
             <h2>
-                Fast, stable & spiced with great community
-            <a href="http://www.yesodweb.com/book/" .btn.btn-info.btn-lg>
-                Read the Book
+                Writings
+            <a href="#" .btn.btn-info.btn-lg>
+                Say Hi!
 
 <div .container>
     <!-- Starting
@@ -15,7 +15,7 @@
         <div .row>
             <div .col-lg-12>
                 <div .page-header>
-                    <h1 #start>Starting
+                    <h1 #start>Recent Posts
 
                     <p>
                         Now that you have a working project you should use the
