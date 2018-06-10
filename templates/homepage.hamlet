@@ -18,10 +18,7 @@
                     <h1 #start>Recent Posts
 
                     <p>
-                        Now that you have a working project you should use the
-                        <a href=http://www.yesodweb.com/book/>Yesod book</a> to learn more.
-                    <p>
-                        You can also use this scaffolded site to explore some concepts, and best practices.
+                        The post text should go here:
 
                     <ul .list-group>
 
